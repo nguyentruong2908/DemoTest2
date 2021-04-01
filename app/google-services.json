@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "501308754284",
+    "firebase_url": "https://chatapp-b5b49-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-b5b49",
+    "storage_bucket": "chatapp-b5b49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501308754284:android:69d1568dab6589cd034b49",
+        "android_client_info": {
+          "package_name": "com.CaoVyTeam.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501308754284-e9bmunetb77tred5c4pgln882of1f8bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4IIWgcJj9pjqlVDnZir2Bkg-GzCtWx9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501308754284-e9bmunetb77tred5c4pgln882of1f8bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501308754284:android:8a430daa70c79af8034b49",
+        "android_client_info": {
+          "package_name": "com.mianasad.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501308754284-e9bmunetb77tred5c4pgln882of1f8bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4IIWgcJj9pjqlVDnZir2Bkg-GzCtWx9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501308754284-e9bmunetb77tred5c4pgln882of1f8bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
